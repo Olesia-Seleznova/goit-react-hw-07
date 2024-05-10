@@ -69,4 +69,4 @@ export const selectVisibleContacts = createSelector(
   }
 );
 
-export default contactsSlice.reducer;
+export const contactsReducer = contactsSlice.reducer;
