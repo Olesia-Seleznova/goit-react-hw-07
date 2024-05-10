@@ -1,0 +1,17 @@
+.div {
+  width: 100%;
+  display: flex;
+  margin-left: 30px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.p {
+  margin: 10px 0;
+}
+
+.input {
+  padding: 5px 10px;
+  font-size: 15px;
+  font-weight: 700;
+}

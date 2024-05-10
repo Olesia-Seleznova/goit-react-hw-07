@@ -1,0 +1,17 @@
+.div {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ul {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  padding-right: 20px;
+  list-style: none;
+}
+
+.li {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
